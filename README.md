@@ -1,22 +1,13 @@
-# E-CommerceWebsite
- A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
- 
- 
- 
-### Home page
-![1](https://user-images.githubusercontent.com/17312616/65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc.png)
+Fashon Cloth Selling website (E-commerce platform)
 
+A simulation of client side e-commerce website with feature as add to cart, proceed for checkout. It simultes a shopping cart within a website. Developed using HTML CSS and Javascript
 
+Synopsis/Project details
 
-### Content Description page
-![2](https://user-images.githubusercontent.com/17312616/65086777-b1beb080-d9d0-11e9-9e2b-af3b7210bdf3.png)
+To make easier for content creators to sell there merchandise, and for customers too. this website have beautiful UI for great user experience For completion of this website we had used some of the core azure services such as Static Webapps Visual Studio Code.
 
+Deployment can be viewed here : https://black-wave-0282d9d00.5.azurestaticapps.net
 
+For deploying a static webapp using Azure Static web app service we have to make a resource group in my case it was "MerchStore" and connect to github account in order to access repositories. Azure creates a github actions .yaml file in ".github/Workflows/ " which automatically detects a new commit and run a github actions workflow and the changes reflects on the actual website.
 
-### Ordered List page
-![3](https://user-images.githubusercontent.com/17312616/65086778-b2574700-d9d0-11e9-9377-8e4886f582a8.png)
-
-
-
-### Order confirm page
-![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
+Video Link-
